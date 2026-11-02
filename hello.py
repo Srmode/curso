@@ -1,7 +1,5 @@
 #prueba de push
 import string
-vMundo = "El mundo es gay"
-print(vMundo)
 #-----Parte del curso de udemy
 #-----Program for adding two numbers 
 print("Enter two numbers to add")
