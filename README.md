@@ -1,1 +1,1 @@
-# cursoasdas
+# ESTE SON NOTAS DE PYTHON:
