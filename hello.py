@@ -32,3 +32,7 @@ print(' President said "I\'ll not run for re-election" ')
 print(r'c:\Users\user\Desktop\python\hello.py')
 #la f es para poder poner variables dentro de un print sin necesidad de concatenar con el signo +, solo se pone la variable entre llaves {}
 print(f'newton discoverd {num1} and {num2} are equal')
+
+print(10 // 3) #el // es para hacer una division entera, es decir, sin decimales, se acerque mas al numero entero aproximado
+#se puede las funcion str() para convertir un numero a string, y la funcion int() para convertir un string a numero entero, y la funcion float() para convertir un string a numero decimal
+print("hola " + str(num1))

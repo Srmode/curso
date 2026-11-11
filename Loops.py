@@ -24,6 +24,11 @@ if startNum < endNum and startNum >= 0 and endNum >= 0:
     for i in z:
         if i % 2 == 0:
             print(i, 'es un numero par')
+        else:
+            #el pass es una instruccion que no hace nada, se usa para indicar que no hay nada que hacer en ese bloque de codigo
+            pass
+        #el continue hace que el for continue con la siguiente iteracion, es decir, salta el resto del codigo y vuelve al inicio del for
+            continue 
     #para los for tamvbien se puede usar un else, que se ejecuta cuando el for termina de iterar
     #el else se ejecuta si el for termina normalmente, es decir, sin un break y si hay un break, el else no se ejecuta
     else:
